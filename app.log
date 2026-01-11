@@ -1,0 +1,5 @@
+2025-01-05 10:12:33 ERROR AuthService validateUser NullPointerException user is null
+2025-01-05 10:12:35 ERROR AuthService validateUser NullPointerException user is null
+2025-01-05 10:13:01 ERROR OrderService placeOrder DatabaseTimeoutException db timeout
+2025-01-05 10:13:10 ERROR OrderService placeOrder DatabaseTimeoutException db timeout
+2025-01-05 10:14:02 ERROR PaymentService processPayment APIException payment gateway down
